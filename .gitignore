@@ -1,6 +1,7 @@
 .claude/**
 .cursor/
 .DS_Store
+.amp/portals/
 .tilt-build/
 kustomize/**/charts/
 charts/cell-observability/charts/
@@ -8,3 +9,5 @@ coverage
 tmp/
 .idea/
 dev/docker/keycloak/*/target/
+config.bat
+node_modules
